@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/rajni0906/lovescloudtest/_apis/build/status/rajnikhattarrsinha.pipelines-java?branchName=master)](https://dev.azure.com/rajni0906/lovescloudtest/_build/latest?definitionId=3&branchName=master)
+
+
 
 # Contributing
 
